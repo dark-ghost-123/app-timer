@@ -26,3 +26,17 @@ cli app analyze your apps usage time and reason and return summery of that
 
 - you tell me
 
+
+## Installation
+
+Create app icon in desctop
+
+create shortcut with this target:
+```bash
+    python directory\to\app_timer.py
+```
+then add to below address to start with windows startup:
+```bash
+    C:\Users\(username)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+```
+    
